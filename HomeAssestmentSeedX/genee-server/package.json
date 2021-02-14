@@ -1,0 +1,16 @@
+{
+  "name": "genee-server",
+  "version": "1.0.0",
+  "description": "Mock backend for genee ui POC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "type": "module",
+  "author": "Chananya Winston",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.8.0"
+  }
+}
